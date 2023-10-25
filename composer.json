@@ -1,0 +1,12 @@
+{
+    "name": "natama/email-bash-valid",
+    "authors": [
+        {
+            "name": "afuzapratama",
+            "email": "afuzapratama@yahoo.com"
+        }
+    ],
+    "require": {
+        "mattketmo/email-checker": "^2.2"
+    }
+}
